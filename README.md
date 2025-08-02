@@ -1,1 +1,4 @@
 # renegadoswow
+
+
+arreglos: ejemplo
