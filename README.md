@@ -4,3 +4,7 @@
 4.- Añadido servidor alojado en EU.
 5.- Primera zona añadida y funcional 1-10
 6.- Primera mazmorra activa (Farmeo y subida de nivel).
+7.- Se a añadido una pagina web para el juego. 
+8.- Pronto transfiguraciones. 
+9.- Tambien tienda en la web.
+10.- Se han añadidos jefes de mundo.
